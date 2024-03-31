@@ -1,0 +1,26 @@
+{
+    "takedown": {
+        "takedown_Misc": {
+        "Keybind": "RButton",
+        "Color": 25
+
+         },
+        "takedown_PrecisionSettings": {
+            "XValue": 10,
+            "YValue": 10,
+            "CoordinateX": 250,
+            "CoordinateY": 250
+
+        },
+        "takedown_RageSettings": {
+            "VelocityX": 0.13467,
+            "VelocityY": 0.12,
+            "SmoothingX": 99,
+            "SmoothingY": 99,
+            "FovX": 10,
+            "FovY": 10
+
+
+        }
+    }
+  }
